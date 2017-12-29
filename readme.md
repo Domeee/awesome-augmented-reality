@@ -4,9 +4,9 @@
 
 ## Contents
 
-* [Inspiration](#Inspiration)
-* [Hardware](#Hardware)
-* [Blogs](#Blogs)
+* [Inspiration](#inspiration)
+* [Hardware](#hardware)
+* [Blogs](#blogs)
 
 ## Inspiration
 
