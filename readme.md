@@ -12,7 +12,7 @@ The list covers both Augmented Reality (AR) and Mixed Reality (MR).
 
 ## Inspiration
 
-Inspirational videos/sources are ordered by theyr field of application.
+Inspirational videos/sources are ordered by their field of application.
 
 ### Education
 
@@ -53,7 +53,7 @@ TBD
 
 * [BRIDGE](https://bridge.occipital.com) - MR / VR headset for iOS only
 * [HoloLens](https://www.microsoft.com/en-us/hololens) - Microsoft HoloLens
-* [Magic Leap One](https://www.magicleap.com) - Soon to be releasd (pun intended) MR headset
+* [Magic Leap One](https://www.magicleap.com) - Soon to be released (pun intended) MR headset
 * [Meta 2](https://www.metavision.com) - MR headset
 * [ZapBox](https://www.kickstarter.com/projects/713418541/zapbox-experience-mixed-reality-for-just-30) - MR Cardboard
 
