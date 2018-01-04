@@ -1,6 +1,8 @@
-# Awesome Mixed Reality [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Augmented Reality [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of mixed reality awesomeness.
+> A curated list of augmented reality awesomeness.
+
+The list covers both Augmented Reality (AR) and Mixed Reality (MR).
 
 ## Contents
 
@@ -10,10 +12,44 @@
 
 ## Inspiration
 
+Inspirational videos/sources are ordered by theyr field of application.
+
+### Education
+
+* [Music Everywhere](https://www.youtube.com/watch?v=QdlJMc5ek_8) - AR piano improvisation learning system
+
+### Holoportation
+
 * [Holoportation](https://www.youtube.com/watch?v=7d59O6cfaM0) - virtual 3D teleportation in real-time by Microsoft Research
-* [Microsoft Hololens NFL Gaming Demo](https://www.youtube.com/watch?v=JQ2fhg1JQig) - mixed reality and sports entertainment
+
+### Sports Entertainment
+
+* [Microsoft Hololens NFL Gaming Demo](https://www.youtube.com/watch?v=JQ2fhg1JQig) - MR and sports entertainment
+
+### Science Fiction
+
+* [Plurality](https://www.youtube.com/watch?v=IzryBRPwsog) - SciFi short film
+* [Sight](https://vimeo.com/46304267) - A short futuristic film about AR
+
+### Tools
+
+* [ARuler](https://www.youtube.com/watch?time_continue=1&v=lIJXsQwC39U) - Measure Distances with AR
+
+### Video Games
+
+* [Super Mario Bros AR Game](https://www.youtube.com/watch?v=QN95nNDtxjo) - AR game built with Microsoft HoloLens and Unity3D
+
+### Misc
+
+* [PortalAR](https://www.youtube.com/watch?time_continue=22&v=-7NutV8kHLQ) - An immersive way to explore 360 photos, videos and 3D environments
 
 ## Hardware
+
+### AR
+
+TBD
+
+### AR & MR
 
 * [BRIDGE](https://bridge.occipital.com) - MR / VR headset for iOS only
 * [HoloLens](https://www.microsoft.com/en-us/hololens) - Microsoft HoloLens
@@ -21,8 +57,17 @@
 * [Meta 2](https://www.metavision.com) - MR headset
 * [ZapBox](https://www.kickstarter.com/projects/713418541/zapbox-experience-mixed-reality-for-just-30) - MR Cardboard
 
+## Frameworks
+
+TBD
+
+## Libraries
+
+TBD
+
 ## Blogs
 
+* [Google AR and VR](https://www.blog.google/products/google-vr/) - News about AR and VR at Google, including ARCore, Daydream, Cardboard, Jump, Tilt Brush, Blocks and more.
 * [Next Reality](https://next.reality.news/) - AR & MR news, rumors & dev guides
 
 ## Contribute
