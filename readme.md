@@ -37,6 +37,8 @@ Inspirational videos/sources are ordered by their field of application.
 
 ### Video Games
 
+* [FATHER.IO](https://father.io/) - AR laser tag
+* [RealityClash](https://reality-clash.com/) - AR combat game available on iPhone and Android
 * [Super Mario Bros AR Game](https://www.youtube.com/watch?v=QN95nNDtxjo) - AR game built with Microsoft HoloLens and Unity3D
 
 ### Misc
