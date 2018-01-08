@@ -6,9 +6,11 @@ The list covers both Augmented Reality (AR) and Mixed Reality (MR).
 
 ## Contents
 
+* [Blogs](#blogs)
+* [Frameworks](#frameworks)
 * [Inspiration](#inspiration)
 * [Hardware](#hardware)
-* [Blogs](#blogs)
+* [Libraries](#libraries)
 
 ## Inspiration
 
