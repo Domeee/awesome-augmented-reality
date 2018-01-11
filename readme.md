@@ -59,7 +59,7 @@ TBD
 * [HoloLens](https://www.microsoft.com/en-us/hololens) - Microsoft HoloLens
 * [Magic Leap One](https://www.magicleap.com) - Soon to be released (pun intended) MR headset
 * [Meta 2](https://www.metavision.com) - MR headset
-* [ZapBox](https://www.kickstarter.com/projects/713418541/zapbox-experience-mixed-reality-for-just-30) - MR Cardboard
+* [ZapBox](https://www.zappar.com/zapbox/) - MR Cardboard
 
 ## Frameworks
 
