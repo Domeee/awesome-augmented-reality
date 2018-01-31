@@ -51,7 +51,7 @@ Inspirational videos/sources are ordered by their field of application.
 
 ### AR
 
-TBD
+* [Vuzix Blade](https://www.vuzix.com/Products/Blade-Enterprise) Vuzix Blade Augmented Reality Smart Glasses
 
 ### AR & MR
 
