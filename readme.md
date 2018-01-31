@@ -32,6 +32,7 @@ Inspirational videos/sources are ordered by their field of application.
 
 * [Plurality](https://www.youtube.com/watch?v=IzryBRPwsog) - SciFi short film
 * [Sight](https://vimeo.com/46304267) - A short futuristic film about AR
+* [Hyper-Reality](https://www.youtube.com/watch?v=YJg02ivYzSs) - A provocative and kaleidoscopic new vision of the future, where physical and virtual realities have merged.
 
 ### Tools
 
@@ -45,8 +46,7 @@ Inspirational videos/sources are ordered by their field of application.
 
 ### Misc
 
-* [PortalAR](https://www.youtube.com/watch?time_continue=22&v=-7NutV8kHLQ) - An immersive way to explore 360 photos, videos and 3D environments
-* [Hyper-Reality](https://www.youtube.com/watch?v=YJg02ivYzSs) - A provocative and kaleidoscopic new vision of the future, where physical and virtual realities have merged.
+* [PortalAR](https://www.youtube.com/watch?time_continue=22&v=-7NutV8kHLQ) - An immersive way to explore 360 photos, videos and 3D environment
 
 ## Hardware
 
