@@ -12,6 +12,25 @@ The list covers both Augmented Reality (AR) and Mixed Reality (MR).
 - [Hardware](#hardware)
 - [Libraries](#libraries)
 
+## Blogs
+
+- [Google AR and VR](https://www.blog.google/products/google-vr/) - News about AR and VR at Google, including ARCore, Daydream, Cardboard, Jump, Tilt Brush, Blocks and more.
+- [Next Reality](https://next.reality.news/) - AR & MR news, rumors & dev guides
+
+## Frameworks
+
+https://thinkmobiles.com/blog/best-ar-sdk-review/
+
+https://www.wikitude.com/
+https://deepar.ai/augmented-reality-sdk/
+https://www.easyar.com/
+https://www.kudan.eu/
+https://developer.maxst.com/
+https://developer.vuforia.com/
+http://simplecv.org/
+https://developer.apple.com/arkit/
+https://developers.google.com/ar/
+
 ## Inspiration
 
 Inspirational videos/sources are ordered by their field of application.
@@ -43,12 +62,13 @@ Inspirational videos/sources are ordered by their field of application.
 - [FATHER.IO](https://father.io/) - AR laser tag
 - [RealityClash](https://reality-clash.com/) - AR combat game available on iPhone and Android
 - [Super Mario Bros AR Game](https://www.youtube.com/watch?v=QN95nNDtxjo) - AR game built with Microsoft HoloLens and Unity3D
+- [Spatial](https://www.kickstarter.com/projects/1539770337/spatial-multiplayer-ar-tabletop-gaming/description) - Multiplayer Holographic AR Tabletop Gaming
 
 ### Misc
 
 - [PortalAR](https://www.youtube.com/watch?time_continue=22&v=-7NutV8kHLQ) - An immersive way to explore 360 photos, videos and 3D environment
 
-## Hardware
+## Hardware (consumer oriented)
 
 ### AR
 
@@ -60,21 +80,12 @@ Inspirational videos/sources are ordered by their field of application.
 - [HoloLens](https://www.microsoft.com/en-us/hololens) - Microsoft HoloLens
 - [Magic Leap One](https://www.magicleap.com) - Soon to be released (pun intended) MR headset
 - [Meta 2](https://www.metavision.com) - MR headset
-- [ODG](http://www.osterhoutgroup.com) - MR Smartglasses
+- [ODG](https://www.osterhoutgroup.com) - MR Smartglasses
 - [ZapBox](https://www.zappar.com/zapbox/) - MR Cardboard
-
-## Frameworks
-
-TBD
 
 ## Libraries
 
 TBD
-
-## Blogs
-
-- [Google AR and VR](https://www.blog.google/products/google-vr/) - News about AR and VR at Google, including ARCore, Daydream, Cardboard, Jump, Tilt Brush, Blocks and more.
-- [Next Reality](https://next.reality.news/) - AR & MR news, rumors & dev guides
 
 ## Contribute
 
