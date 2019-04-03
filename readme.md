@@ -96,7 +96,7 @@ Inspirational videos/sources are ordered by their field of application.
 
 - [PortalAR](https://www.youtube.com/watch?time_continue=22&v=-7NutV8kHLQ) - An immersive way to explore 360 photos, videos and 3D environment
 
-## Hardware (consumer oriented)
+## Hardware
 
 ### Smartglasses
 
