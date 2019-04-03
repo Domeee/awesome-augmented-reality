@@ -2,8 +2,6 @@
 
 > A curated list of augmented reality awesomeness.
 
-The list covers both Augmented Reality (AR) and Mixed Reality (MR).
-
 ## Contents
 
 - [Blogs](#blogs)
@@ -11,6 +9,7 @@ The list covers both Augmented Reality (AR) and Mixed Reality (MR).
 - [Frameworks](#frameworks)
 - [Hardware](#hardware)
 - [Inspiration](#inspiration)
+- [UX](#ux)
 
 ## Blogs
 
@@ -49,10 +48,15 @@ Influential conferences.
 
 Popular frameworks to build AR experiences.
 
+- [8th Wall](https://www.8thwall.com) - SDK's to build either Web or Smartphone based AR solutions
 - [ARCore](https://developers.google.com/ar/) - Google AR SDK
 - [ARKit](https://developer.apple.com/arkit/) - Apple AR SDK
+- [AR.js](https://github.com/jeromeetienne/ar.js) - JavaScript (WebGL, WebRTC) based AR SDK
+- [OpenCV](https://opencv.org) - Open Source Computer Vision Library
+- [Unity3d Foundation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@1.0/manual/index.html) - SDK integrated with Unity3d game engine to build smartphone based AR solutions. Can target both ARCore and ARKit.
 - [Vuforia](https://developer.vuforia.com/) - AR SDK that is directly integrated in the Unity Editor. Proprietary license, [free to develop with](https://developer.vuforia.com/vui/pricing)
 - [Wikitude](https://www.wikitude.com/) - AR SDK with extensive list of [features](https://www.wikitude.com/products/wikitude-sdk-features/) and supported devices. Proprietary license, [free for startups](https://www.wikitude.com/store/)
+- [WebXR Device API Specification](https://github.com/immersive-web/webxr) - Repository for the WebXR Device API Specification.
 
 ## Inspiration
 
@@ -66,9 +70,10 @@ Inspirational videos/sources are ordered by their field of application.
 
 - [Holoportation](https://www.youtube.com/watch?v=7d59O6cfaM0) - virtual 3D teleportation in real-time by Microsoft Research
 
-### Sports Entertainment
+### Sports
 
 - [Microsoft Hololens NFL Gaming Demo](https://www.youtube.com/watch?v=JQ2fhg1JQig) - MR and sports entertainment
+- [HADO - AR × Sports](https://www.youtube.com/watch?v=REBPXwx24kA) - HADO is AR sports enables people to shoot the energy balls and pull up the shields that people have dreamed of since the childhood
 
 ### Science Fiction
 
@@ -93,13 +98,25 @@ Inspirational videos/sources are ordered by their field of application.
 
 ## Hardware (consumer oriented)
 
-- [BRIDGE](https://bridge.occipital.com) - MR / VR headset for iOS only
+### Smartglasses
+
+- [Focals](https://www.bynorth.com) - Smartglasses
+- [Rokid Glass](https://glass.rokid.com) - AR glasses running on Android powered by an onboard processor, limited FoV (33 degrees)
+- [Vuzix Blade](https://www.vuzix.com/products/blade-smart-glasses) - AR glasses
+
+### Headset
+
+- [BRIDGE](https://bridge.occipital.com) - MR headset for iOS only
 - [HoloLens](https://www.microsoft.com/en-us/hololens) - Microsoft HoloLens
-- [Magic Leap One](https://www.magicleap.com) - MR headset
-- [Meta 2](https://www.metavision.com) - MR headset
-- [ODG](https://www.osterhoutgroup.com) - MR Smartglasses
-- [Vuzix Blade](https://www.vuzix.com/products/blade-smart-glasses) Augmented Reality Smart Glasses
-- [ZapBox](https://www.zappar.com/zapbox/) - MR Cardboard
+- [Magic Leap One](https://www.magicleap.com) - AR headset
+- [Meta 2](https://www.metavision.com) - AR headset
+- [ZapBox](https://www.zappar.com/zapbox/) - AR Cardboard
+
+## UX
+
+- [Adobe Project Aero](https://www.adobe.com/products/projectaero.html) - AR authoring tool targeted at designers
+- [Google Poly](https://poly.google.com) - 3D models library
+- [Sketchfab](https://sketchfab.com) - 3D models library
 
 ## Contribute
 
