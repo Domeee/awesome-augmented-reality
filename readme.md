@@ -109,7 +109,6 @@ Inspirational videos/sources are ordered by their field of application.
 - [BRIDGE](https://bridge.occipital.com) - MR headset for iOS only
 - [HoloLens](https://www.microsoft.com/en-us/hololens) - Microsoft HoloLens
 - [Magic Leap One](https://www.magicleap.com) - AR headset
-- [Meta 2](https://www.metavision.com) - AR headset
 - [ZapBox](https://www.zappar.com/zapbox/) - AR Cardboard
 
 ## UX
