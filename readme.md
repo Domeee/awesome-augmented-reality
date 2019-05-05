@@ -53,10 +53,12 @@ Popular frameworks to build AR experiences.
 - [ARKit](https://developer.apple.com/arkit/) - Apple AR SDK
 - [AR.js](https://github.com/jeromeetienne/ar.js) - JavaScript (WebGL, WebRTC) based AR SDK
 - [OpenCV](https://opencv.org) - Open Source Computer Vision Library
+- [Spark AR Studio](https://sparkar.facebook.com/ar-studio) - Facebook's AR content creation tool for Facebook, Messenger, and Instagram.
 - [Unity3d Foundation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@1.0/manual/index.html) - SDK integrated with Unity3d game engine to build smartphone based AR solutions. Can target both ARCore and ARKit.
 - [Vuforia](https://developer.vuforia.com/) - AR SDK that is directly integrated in the Unity Editor. Proprietary license, [free to develop with](https://developer.vuforia.com/vui/pricing)
 - [Wikitude](https://www.wikitude.com/) - AR SDK with extensive list of [features](https://www.wikitude.com/products/wikitude-sdk-features/) and supported devices. Proprietary license, [free for startups](https://www.wikitude.com/store/)
 - [WebXR Device API Specification](https://github.com/immersive-web/webxr) - Repository for the WebXR Device API Specification.
+- [ZapWorks] - All-in-one AR toolkit to build, publish, and analyze AR solutions. Built by Zappar, the company behind the [AR cardboard](#hardware).
 
 ## Inspiration
 
