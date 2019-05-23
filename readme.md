@@ -12,6 +12,7 @@
 - [UX](#ux)
 
 ---
+
 <sub>SPONSOR</sub>
 
 <div align="center">
@@ -134,8 +135,10 @@ Inspirational videos/sources are ordered by their field of application.
 ## UX
 
 - [Adobe Project Aero](https://www.adobe.com/products/projectaero.html) - AR authoring tool targeted at designers
+- [Clara.io](https://clara.io) - 3D models library
 - [Google Poly](https://poly.google.com) - 3D models library
 - [Sketchfab](https://sketchfab.com) - 3D models library
+- [TurboSquid](https://www.turbosquid.com/Search/3D-Models/free) - 3D model library
 
 ## Contribute
 
