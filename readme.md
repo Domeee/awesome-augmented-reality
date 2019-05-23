@@ -69,7 +69,7 @@ Popular frameworks to build AR experiences.
 - [8th Wall](https://www.8thwall.com) - SDK's to build either Web or Smartphone based AR solutions
 - [ARCore](https://developers.google.com/ar/) - Google AR SDK
 - [ARKit](https://developer.apple.com/arkit/) - Apple AR SDK
-- [AR.js](https://github.com/jeromeetienne/ar.js) - JavaScript (WebGL, WebRTC) based AR SDK
+- [AR.js](https://github.com/jeromeetienne/ar.js) - JavaScript (WebGL, WebRTC) AR SDK based on [A-Frame](https://aframe.io)
 - [OpenCV](https://opencv.org) - Open Source Computer Vision Library
 - [Spark AR Studio](https://sparkar.facebook.com/ar-studio) - Facebook's AR content creation tool for Facebook, Messenger, and Instagram.
 - [Unity AR Foundation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@1.0/manual/index.html) - SDK integrated with Unity game engine to build handheld (tablet and smartphon) based AR solutions. Can target both ARCore and ARKit.
