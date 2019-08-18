@@ -9,7 +9,8 @@
 - [Frameworks](#frameworks)
 - [Hardware](#hardware)
 - [Inspiration](#inspiration)
-- [UX](#ux)
+- [3D Models](#3d-models)
+- [Movies/TV](#movies)
 
 ---
 
@@ -36,7 +37,7 @@ Influential blogs and sources of information.
 - [Mozilla Mixed Reality Blog](https://blog.mozvr.com/) - News about AR, VR and MR from Mozilla
 - [Next Reality](https://next.reality.news/) - AR & MR news, rumors & dev guides
 - [Reddit Augmented Reality](https://www.reddit.com/r/augmentedreality/) - A common ground for discussion relating to Augmented Reality and Augmented Worlds.
-- [Zappar Blog](https://www.zappar.com/blog/) - News about AR, VR and MR from the creator of the ZapBox (see [Hardware](#hardware))
+- [Venturebeat](https://venturebeat.com/category/arvr) - Technology news site with a specific AR/VR channel.
 
 ## Conferences
 
@@ -66,17 +67,27 @@ Influential conferences.
 
 Popular frameworks to build AR experiences.
 
+### Code-based
+
 - [8th Wall](https://www.8thwall.com) - SDK's to build either Web or Smartphone based AR solutions
 - [ARCore](https://developers.google.com/ar/) - Google AR SDK
 - [ARKit](https://developer.apple.com/arkit/) - Apple AR SDK
 - [AR.js](https://github.com/jeromeetienne/ar.js) - JavaScript (WebGL, WebRTC) AR SDK based on [A-Frame](https://aframe.io)
 - [OpenCV](https://opencv.org) - Open Source Computer Vision Library
+- [RealityKit](https://developer.apple.com/augmented-reality/reality-composer) - High-level AR framework by Apple. Comparable to Unity and Unreal Engine but specific for AR solutions.
 - [Spark AR Studio](https://sparkar.facebook.com/ar-studio) - Facebook's AR content creation tool for Facebook, Messenger, and Instagram.
 - [Unity AR Foundation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@1.0/manual/index.html) - SDK integrated with Unity game engine to build handheld (tablet and smartphon) based AR solutions. Can target both ARCore and ARKit.
 - [Vuforia](https://developer.vuforia.com/) - AR SDK that is directly integrated in the Unity Editor. Proprietary license, [free to develop with](https://developer.vuforia.com/vui/pricing)
 - [Wikitude](https://www.wikitude.com/) - AR SDK with extensive list of [features](https://www.wikitude.com/products/wikitude-sdk-features/) and supported devices. Proprietary license, [free for startups](https://www.wikitude.com/store/)
 - [WebXR Device API Specification](https://github.com/immersive-web/webxr) - Repository for the WebXR Device API Specification.
 - [ZapWorks](https://zap.works) - All-in-one AR toolkit to build, publish, and analyze AR solutions. Built by Zappar, the company behind the [AR cardboard](#hardware).
+
+### No-Code based
+
+- [Adobe Project Aero](https://www.adobe.com/products/projectaero.html) - AR authoring tool targeted at designers
+- [Reality Composer](https://developer.apple.com/augmented-reality/reality-composer) - AR prototyping tool by Apple
+- [Torch AR](https://www.torch.app) - Mobile augmented reality prototyping and design
+- [wiARframe](https://www.wiarframe.com) - AR Prototyping inspired by Invision, Sketch, and Marvel
 
 ## Inspiration
 
@@ -89,6 +100,13 @@ Inspirational videos/sources are ordered by their field of application.
 ### Holoportation
 
 - [Holoportation](https://www.youtube.com/watch?v=7d59O6cfaM0) - virtual 3D teleportation in real-time by Microsoft Research
+
+### Movies / TV
+
+- [Auggie (Movie)](https://www.imdb.com/title/tt7596220/?ref_=fn_al_tt_1) - Forced into early retirement, Felix Greystone falls in love with an augmented reality companion, to the detriment of his relationship with his wife and daughter.
+- [Anon (Movie)](https://www.imdb.com/title/tt5397194/videoplayer/vi1718335513?ref_=tt_ov_vi) - In a world without anonymity or crime, a detective meets a woman who threatens their security.
+- [Altered Carbon (TV)](https://www.imdb.com/title/tt2261227/?ref_=fn_al_tt_1) - Set in a future where consciousness is digitized and stored, a prisoner returns to life in a new body and must solve a mind-bending murder to win his freedom.
+- [Black Mirror (TV)](https://www.imdb.com/title/tt2085059/?ref_=fn_al_tt_1) - An anthology series exploring a twisted, high-tech world where humanity's greatest innovations and darkest instincts collide.
 
 ### Sports
 
@@ -121,6 +139,7 @@ Inspirational videos/sources are ordered by their field of application.
 ### Smartglasses
 
 - [Focals](https://www.bynorth.com) - Smartglasses
+- [Nreal Light](https://nreal.ai/specs) - AR smartglasses
 - [Rokid Glass](https://glass.rokid.com) - AR glasses running on Android powered by an onboard processor, limited FoV (33 degrees)
 - [Vuzix Blade](https://www.vuzix.com/products/blade-smart-glasses) - AR glasses
 
@@ -132,9 +151,8 @@ Inspirational videos/sources are ordered by their field of application.
 - [North Star Kit](https://www.smart-prototyping.com/Project-North-Star-Kit) - The device is an implementation of Leap Motion's [Norh Star]() reference design - an open source specification for an AR headset with two 1600x1440 displays with 120 FPS, a visual field of 100 degrees, and 180 degree hand tracking.
 - [ZapBox](https://www.zappar.com/zapbox/) - AR Cardboard
 
-## UX
+## 3D Models
 
-- [Adobe Project Aero](https://www.adobe.com/products/projectaero.html) - AR authoring tool targeted at designers
 - [Clara.io](https://clara.io) - 3D models library
 - [Google Poly](https://poly.google.com) - 3D models library
 - [Sketchfab](https://sketchfab.com) - 3D models library
